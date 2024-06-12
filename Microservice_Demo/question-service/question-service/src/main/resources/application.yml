@@ -1,0 +1,5 @@
+# for YAML files
+spring:
+  cloud:
+    compatibility-verifier:
+      enabled: false
